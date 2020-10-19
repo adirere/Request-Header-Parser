@@ -1,5 +1,9 @@
 # API Project: Request Header Parser Microservice for freeCodeCamp
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-headerparser)](https://repl.it/github/freeCodeCamp/boilerplate-project-headerparser)
+
+Project page: [click here](https://glitch.com/~mysterious-spark-net)
+
+Live app: [click here](https://mysterious-spark-net.glitch.me)
+
 ### User stories:
 1. I can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for my device.
 
